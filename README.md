@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 This is my first challenge on the frontend mentor website.
-the task is to build a QR component while I used HTML/CSS for.
+the task is to build a QR component which I used HTML/CSS for.
 
 ### Screenshot
 
@@ -23,7 +23,7 @@ the task is to build a QR component while I used HTML/CSS for.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-jx6CBLiW9t)
 - Live Site URL: (https://main--qr-code-saif.netlify.app/)
 
 ### Built with
