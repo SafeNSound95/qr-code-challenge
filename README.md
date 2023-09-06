@@ -19,7 +19,7 @@ the task is to build a QR component while I used HTML/CSS for.
 
 ### Screenshot
 
-![Screenshot of the solution to the QR code challenge](<2023-09-06 Frontend Mentor QR code component.png>)
+![Screenshot of the solution to the QR code challenge](<(2023-09-06-Frontend-Mentor-QR-code-component-1.png)>)
 
 ### Links
 
